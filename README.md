@@ -43,3 +43,15 @@ To run this project, you need:
 
    ```bash
    git clone https://github.com//culturally/CashApp.git
+
+2. Open the project in [Xcode](https://developer.apple.com/xcode/) (Xcode is only available on MacOS)
+3. Compile the project into an ipa
+4. Sideload the IPA file
+
+### Without Xcode
+
+If you do not have `MacOS` or specifically iPhone 11 or you can't compile the source into an `IPA`.
+
+`I can compile it for you` for a `little fee` or change the source code so it will fit perfectly on `your device`.
+
+### [Contact me now on Telegram](https://t.me/undecryptable)
