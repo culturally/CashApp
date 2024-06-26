@@ -54,4 +54,4 @@ If you do not have `MacOS` or specifically iPhone 11 or you can't compile the so
 
 `I can compile it for you` for a `little fee` or change the source code so it will fit perfectly on `your device`.
 
-### [Contact me now on Telegram](https://t.me/undecryptable)
+### [VISIT ME on Telegram](https://t.me/undecryptable66)
