@@ -58,9 +58,9 @@ If you do not have `MacOS` or specifically iPhone 11/13 or you can't compile the
 
 ## Are you interested in Cash App Clones?
 
-[CHECK MY CHANNEL FOR MORE!!!](https://t.me/undecryptable66)
+## [CHECK MY CHANNEL FOR MORE!!!](https://t.me/undecryptable66)
 
-### [VISIT ME on Telegram](https://t.me/undecryptable66)
+### [CONTACT ME on Telegram](https://t.me/undecryptable66)
 
 
 
