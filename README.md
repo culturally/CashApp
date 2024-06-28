@@ -23,17 +23,18 @@ This project is a clone of the Cash App, a popular mobile payment application. I
 
 - Simulate a mobile payment app like Cash App.
 - Change your balance for testing and demonstration purposes.
-- Designed to work on iPhone 11.
+- Designed to work on iPhone 11/13.
 
 ## Getting Started
 
-Follow the instructions below to get started with this project on your iPhone 11.
+- Follow the instructions below to get started with this project on your iPhone 11/13.
+- Original source is for iPhone13 (zipped) and modified source for iPhone 11 is unzipped
 
 ### Prerequisites
 
 To run this project, you need:
 
-- An iPhone 11 (or simulator).
+- An iPhone 11/13 (or simulator).
 - Xcode installed on your development machine.
 - Basic knowledge of iOS app development.
 
@@ -50,8 +51,17 @@ To run this project, you need:
 
 ### Without Xcode
 
-If you do not have `MacOS` or specifically iPhone 11 or you can't compile the source into an `IPA`.
+If you do not have `MacOS` or specifically iPhone 11/13 or you can't compile the source into an `IPA`.
 
 `I can compile it for you` for a `little fee` or change the source code so it will fit perfectly on `your device`.
 
+
+## Are you interested in Cash App Clones?
+
+[CHECK MY CHANNEL FOR MORE!!!](https://t.me/undecryptable66)
+
 ### [VISIT ME on Telegram](https://t.me/undecryptable66)
+
+
+
+
