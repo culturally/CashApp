@@ -56,11 +56,10 @@ If you do not have `MacOS` or specifically iPhone 11/13 or you can't compile the
 `I can compile it for you` for a `little fee` or change the source code so it will fit perfectly on `your device`.
 
 
-## Are you interested in Cash App Clones?
+# Are you interested in Cash App Clones?
 
 ## [CHECK MY CHANNEL FOR MORE!!!](https://t.me/undecryptable66)
 
-### [CONTACT ME on Telegram](https://t.me/undecryptable66)
 
 
 
