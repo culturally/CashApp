@@ -1,3 +1,11 @@
+# Before you continue
+
+- Make sure you checkout our [Channel](https://t.me/undecryptable66)
+- We have there 3 great [Cash App Clones](https://t.me/undecryptable66)
+- Our newest version includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!! 
+
+
+
 # Cash App Clone
 
 This is a clone of the Cash App, which allows you to change your balance. Please note that this project was originally written by Ethan and has been modified to work specifically on iPhone 11 by [me](https://github.com/culturally).
