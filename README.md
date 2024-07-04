@@ -2,8 +2,9 @@
 
 - Make sure you check out our [Channel](https://t.me/@undecryptable66)
 - We have there 3 great version of [Cash App Clones](https://t.me/@undecryptable66)
-- Our newest version includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!! 
+- Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!! 
 
+![](https://i.ibb.co/zGYrnGS/CD107043-0-E54-4-B7-E-8440-DD5-D565-EC632.jpg)
 
 
 # Cash App Clone
