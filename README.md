@@ -1,7 +1,7 @@
 # Before you continue
 
-- Make sure you check out our [Channel](https://t.me/undecryptable66)
-- We have there 3 great [Cash App Clones](https://t.me/undecryptable66)
+- Make sure you check out our [Channel](https://t.me/@undecryptable66)
+- We have there 3 great version of [Cash App Clones](https://t.me/@undecryptable66)
 - Our newest version includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!! 
 
 
@@ -66,7 +66,7 @@ If you do not have `MacOS` or specifically iPhone 11/13 or you can't compile the
 
 # Are you interested in Cash App Clones?
 
-## [CLICK HERE FOR MORE!!!](https://t.me/undecryptable66)
+## [CLICK HERE FOR MORE!!!](https://t.me/@undecryptable66)
 
 
 
