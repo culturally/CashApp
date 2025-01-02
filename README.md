@@ -1,5 +1,6 @@
 # Before you continue
 
+- PLEASE READ [Frequently asked questions](#FAQ)
 - Make sure you check out our [Channel!](https://t.me/undecryptable66)
 - We have more and better versions of [Cash App Clones](https://t.me/undecryptable66)
 - Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!!!
@@ -25,6 +26,7 @@ This is a clone of the Cash App, which allows you to change your balance. Please
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
+- [Frequently asked questions](#FAQ)
 
 ## Description
 
@@ -60,12 +62,32 @@ To run this project, you need:
 3. Compile the project into an ipa
 4. Sideload the IPA file
 
-### Without Xcode
 
-If you do not have `MacOS` or specifically iPhone 11/13 or you can't compile the source into an `IPA`.
+### FAQ
 
-`I can compile it for you` for a `little fee` or change the source code so it will fit perfectly on `your device`.
+- What is Xcode
 
+Xcode is Apple’s integrated development environment (IDE) used to create apps for iOS, macOS, watchOS, and tvOS.
+
+- How do i get the App on my phone?
+
+You will have to compile this source code with Xcode but you will still have to pay 99$ for Apple's Developer License
+
+- Is there any other way to get it without Xcode?
+
+Yes, if you want it i can already give you precompiled version.
+
+- Are there more cloned apps?
+
+Yes, I have multiple clone apps in my [telegram channel](https://t.me/undecryptable66)
+
+- What is sideloading?
+
+Sideloading is the process of installing applications on a device from a source other than the official app store or marketplace.
+
+- Is it available on android?
+
+No.
 
 
 
