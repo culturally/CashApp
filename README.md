@@ -65,29 +65,31 @@ To run this project, you need:
 
 ### FAQ
 
-- What is Xcode
+1. What is Xcode
 
-Xcode is Apple’s integrated development environment (IDE) used to create apps for iOS, macOS, watchOS, and tvOS.
+- Xcode is Apple’s integrated development environment (IDE) used to create apps for iOS, macOS, watchOS, and tvOS.
 
-- How do i get the App on my phone?
+2. How do i get the App on my phone?
 
-You will have to compile this source code with Xcode but you will still have to pay 99$ for Apple's Developer License
+- You will have to compile this source code with Xcode but you will still have to pay 99$ for Apple's Developer License
 
-- Is there any other way to get it without Xcode?
+3. Is there any other way to get it without Xcode?
 
-Yes, if you want it i can already give you precompiled version.
+- Yes, if you want it i can already give you precompiled version.
 
-- Are there more cloned apps?
+4. Are there more cloned apps?
 
-Yes, I have multiple clone apps in my [telegram channel](https://t.me/undecryptable66)
+- Yes, I have multiple clone apps in my [telegram channel](https://t.me/undecryptable66)
 
-- What is sideloading?
+5. What is sideloading?
 
-Sideloading is the process of installing applications on a device from a source other than the official app store or marketplace.
+- Sideloading is the process of installing applications on a device from a source other than the official app store or marketplace.
 
-- Is it available on android?
+6. Is it available on android?
 
-No.
+- No.
 
+7. Does is work on iPhone 11/13 only?
 
+- This basic version on github works only on iPhone 11/13 but i can also modify it to yout device also other versions work on any device and any iOS.
 
