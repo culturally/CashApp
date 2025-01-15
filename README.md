@@ -1,6 +1,6 @@
 # Before you continue
 
-- PLEASE READ [Frequently asked questions](#FAQ)
+- PLEASE READ [Frequently asked questions](#FAQ)!!!
 - Make sure you check out our [Channel!](https://t.me/undecryptable66)
 - We have more and better versions of [Cash App Clones](https://t.me/undecryptable66)
 - Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!!!
