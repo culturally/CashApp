@@ -4,7 +4,7 @@
 - Make sure you check out our [Channel!](https://t.me/undecryptable66)
 - We have more and better versions of [Cash App Clones](https://t.me/undecryptable66)
 - Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!!!
-- We also have other App Clones like PayPal, Chase and more!!!
+- We also have other App Clones like PayPal, Bank of America and more!!!
 
 
 ![](https://i.ibb.co/09gw8k6/0-F0928-D3-AB86-4-DA0-97-F8-3-DDAFE3-C87-E0.jpg)
