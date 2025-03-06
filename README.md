@@ -94,3 +94,6 @@ To run this project, you need:
 
 - This basic version on github works only on iPhone 11/13 but i can also modify it to yout device also other versions work on any device and any iOS.
 
+8. Will you ever publish compile IPA
+
+- I am planning on releasing it this year for completely free as I own other better versions which have newer UI
