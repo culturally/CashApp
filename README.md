@@ -17,6 +17,7 @@ This is a clone of the Cash App, which allows you to change your balance. Please
 
 ![](https://github.com/culturally/CashApp/blob/main/example.jpg?raw=true)
 
+This project is specifically for iOS ONLY!
 
 
 
