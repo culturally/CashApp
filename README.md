@@ -6,7 +6,6 @@ SALE IN OUR CHANNEL
 - We have more and better versions of [Cash App Clones](https://t.me/undecryptable78)
 - Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!!!
 - We also have other App Clones like PayPal, Bank of America and more!!!
-- Release date at 1k stars
 
 
 ![](https://i.ibb.co/09gw8k6/0-F0928-D3-AB86-4-DA0-97-F8-3-DDAFE3-C87-E0.jpg)
@@ -26,76 +25,110 @@ This project is specifically for iOS ONLY!
 
 - [Description](#description)
 - [Features](#features)
+- [Version Downloads](#version-downloads)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Frequently asked questions](#FAQ)
+- [Sideloading Tutorial](#sideloading-tutorial)
+  - [Using Sideloadly (PC Required)](#using-sideloadly-pc-required)
+  - [Using Esign (No PC Required)](#using-esign-no-pc-required)
+- [FAQ](#faq)
+- [Contact](#contact)
+
+---
 
 ## Description
 
-This project is a clone of the Cash App, a popular mobile payment application. It has been modified to work seamlessly on iPhone 11 devices. The primary purpose of this project is to demonstrate the functionality of a mobile payment app and how you can manipulate your balance within the application.
+This project is a functional clone of **Cash App**, a widely used mobile payment platform. It has been engineered to simulate balance manipulation and payment UI interactions, providing a great sandbox for testing and showcasing how a mobile payment app works.
+
+**Note:** This repository includes builds compatible with **iPhone 11** and **iPhone 13** only, if you want version for any device contact me.
+
+---
 
 ## Features
 
-- Simulate a mobile payment app like Cash App.
-- Change your balance for testing and demonstration purposes.
-- Designed to work on iPhone 11/13.
+- Simulates real Cash App interface and payment flow  
+- Edit and manipulate your visible balance  
+- Supports iPhone 11 and iPhone 13  
+- Precompiled IPA ready to install, no coding required  
+
+---
+
+## Version Downloads
+
+| Version       | iPhone Model | Download Link |
+|---------------|--------------|---------------|
+| v1.0          | iPhone 13    | [Download IPA (Compiled)](https://github.com/culturally/CashApp/releases/download/v1.0/CashApp13.ipa) |
+| v1.1          | iPhone 11    | [Download IPA (Compiled)](https://github.com/culturally/CashApp/releases/download/v1.1/CashApp11.ipa) |
+
+---
 
 ## Getting Started
 
-- Follow the instructions below to get started with this project on your iPhone 11/13.
-- Original source is for iPhone13 (zipped) and modified source for iPhone 11 is unzipped
+Choose your version above and download the correct `.ipa` file for your device.  
+You can install the app using Sideloadly (PC) or Esign (no PC) using the instructions below.
 
-### Prerequisites
+---
 
-To run this project, you need:
+## Prerequisites
 
-- An iPhone 11/13 (or simulator).
-- Xcode installed on your development machine.
-- Basic knowledge of iOS app development.
+- iPhone 11 or iPhone 13  
+- A tool to install IPA: **Sideloadly** (for Windows/macOS) or **Esign** (on-device)
 
-### Installation
+---
 
-1. Clone this repository to your local machine using [Git](https://git-scm.com/):
+## Installation
 
-   ```bash
-   git clone https://github.com//culturally/CashApp.git
+No coding or compiling is needed. Just download the `.ipa` file and follow one of the sideloading methods below.
 
-2. Open the project in [Xcode](https://developer.apple.com/xcode/) (Xcode is only available on MacOS)
-3. Compile the project into an ipa
-4. Sideload the IPA file
+---
 
+## Sideloading Tutorial
 
-### FAQ
+### Using Sideloadly (PC Required)
 
-1. What is Xcode
+1. Download and install Sideloadly from: https://sideloadly.io  
+2. Connect your iPhone via USB and trust the computer  
+3. Launch Sideloadly  
+4. Enter your Apple ID (used only for signing)  
+5. Drag and drop the `.ipa` file into Sideloadly  
+6. Click "Start" to install  
+7. On your iPhone, go to **Settings > General > VPN & Device Management** and trust the developer profile
 
-- Xcode is Apple’s integrated development environment (IDE) used to create apps for iOS, macOS, watchOS, and tvOS.
+---
 
-2. How do i get the App on my phone?
+### Using Esign (No PC Required)
 
-- You will have to compile this source code with Xcode but you will still have to pay 99$ for Apple's Developer License
+1. Install Esign from TrollStore or a trusted third-party source  
+2. Open Esign and import the `.ipa` file  
+3. Tap "Sign" and select a certificate  
+4. Once signed, tap "Install"  
+5. After installation, go to **Settings > General > VPN & Device Management** and trust the developer profile if needed
+6. Select ipa and install it
 
-3. Is there any other way to get it without Xcode?
+---
 
-- Yes, if you want it i can already give you precompiled version.
+## FAQ
 
-4. Are there more cloned apps?
+1. **Do I need Xcode?**  
+   No. Precompiled `.ipa` files are provided — no Mac or Xcode needed.
 
-- Yes, I have multiple clone apps in my [telegram channel](https://t.me/undecryptable78)
+2. **Do I need a paid Apple Developer account?**  
+   Not for sideloading. A free Apple ID works with Sideloadly or personal certificates.
 
-5. What is sideloading?
+3. **Is this for Android?**  
+   No, only for iOS devices (iPhone 11/13).
 
-- Sideloading is the process of installing applications on a device from a source other than the official app store or marketplace.
+4. **Are more clones available?**  
+   Yes — check my Telegram for more.
 
-6. Is it available on android?
+5. **Will there be more versions?**  
+   Yes. More advanced versions with a better UI and support for more devices are in development.
 
-- No.
+---
 
-7. Does is work on iPhone 11/13 only?
+## Contact
 
-- This basic version on github works only on iPhone 11/13 but i can also modify it to yout device also other versions work on any device and any iOS.
+For improved or newer versions, device-specific builds, or other clones, contact me:
 
-8. Will you ever publish compile IPA
-
-- I am planning on releasing it this year for completely free as I own other better versions which have newer UI
+- Telegram: https://t.me/undecryptable78
