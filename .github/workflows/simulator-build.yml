@@ -1,0 +1,31 @@
+name: iOS Simulator Build & Upload for Appetize
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build for iOS Simulator
+        run: |
+          xcodebuild -project CashApp.xcodeproj \
+                     -scheme CashApp \
+                     -destination 'platform=iOS Simulator,name=iPhone 15,OS=17.0' \
+                     clean build
+
+      - name: Package Simulator .app
+        run: |
+          mkdir -p output
+          APP_PATH=$(find ~/Library/Developer/Xcode/DerivedData -name "*.app" | head -n 1)
+          zip -r output/CashAppSimulator.zip "$APP_PATH"
+
+      - name: Upload .zip artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: AppetizeApp
+          path: output/CashAppSimulator.zip
