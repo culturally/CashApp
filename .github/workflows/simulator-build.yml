@@ -1,0 +1,34 @@
+name: iOS Simulator Build
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+jobs:
+  build:
+    name: Build iOS App
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby (for CocoaPods if needed)
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.1
+
+      - name: Install CocoaPods dependencies
+        run: |
+          gem install cocoapods
+          pod install || true  # Skip if no Podfile
+
+      - name: Build app for iOS Simulator
+        run: |
+          xcodebuild -project 'Cash App.xcodeproj' \
+            -scheme 'Mabz' \
+            -sdk iphonesimulator \
+            -destination 'platform=iOS Simulator,name=iPhone 14' \
+            clean build
