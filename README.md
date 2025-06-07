@@ -2,8 +2,8 @@
 
 SALE IN OUR CHANNEL
 - PLEASE READ [Frequently asked questions](#FAQ)!!!
-- Make sure you check out our [Channel!](https://t.me/undecryptable78)
-- We have more and better versions of [Cash App Clones](https://t.me/undecryptable78)
+- Make sure you check out our [Channel!](https://t.me/undecryptable79)
+- We have more and better versions of [Cash App Clones](https://t.me/undecryptable79)
 - Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!!!
 - We also have other App Clones like PayPal, Bank of America and more!!!
 
