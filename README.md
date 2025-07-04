@@ -6,7 +6,7 @@ SALE IN OUR CHANNEL
 - We have more and better versions of [Cash App Clones](https://t.me/undecryptable80)
 - Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!!!
 - We also have other App Clones like P*yPal, B*nk of Am*rica and more!!!
-
+- Crypto Wallets Also Available
 
 ![](https://i.ibb.co/09gw8k6/0-F0928-D3-AB86-4-DA0-97-F8-3-DDAFE3-C87-E0.jpg)
 
