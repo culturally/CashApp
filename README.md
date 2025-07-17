@@ -2,8 +2,8 @@
 
 SALE IN OUR CHANNEL
 - PLEASE READ [Frequently asked questions](#FAQ)!!!
-- Make sure you check out our [Channel!](https://t.me/undecryptable80)
-- We have more and better versions of [Cash App Clones](https://t.me/undecryptable80)
+- Make sure you check out our [Channel!](https://t.me/undecryptable81)
+- We have more and better versions of [Cash App Clones](https://t.me/undecryptable81)
 - Our newest version exclusive includes: Cashtag Grabber, Bitcoin Page, Savings page, and more!!!
 - We also have other App Clones like P*yPal, B*nk of Am*rica and more!!
 - Crypto Wallets Also Available
@@ -131,4 +131,4 @@ No coding or compiling is needed. Just download the `.ipa` file and follow one o
 
 For improved or newer versions, device-specific builds, or other clones, contact me:
 
-- Telegram: https://t.me/undecryptable80
+- Telegram: https://t.me/undecryptable81
