@@ -1,6 +1,6 @@
 # Before you continue
 
-NEW SALE IN OUR CHANNEL!
+NEW VERSION AVAILABLEL!
 - PLEASE READ [Frequently asked questions](#FAQ)!!!
 - Make sure you check out our [Channel!](https://t.me/undecryptable81)
 - We have more and better versions of [Cash App Clones](https://t.me/undecryptable81)
