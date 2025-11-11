@@ -8,7 +8,6 @@ NEW VERSION AVAILABLE!
 - We also have other App Clones like P*yPal, B*nk of Am*rica and more!!
 - Crypto Wallets Also Available
 - Good for TikTok Streams, Prop for movies, Video clips, etc.
-- iOS ONLY
 
 
 ![](https://i.ibb.co/09gw8k6/0-F0928-D3-AB86-4-DA0-97-F8-3-DDAFE3-C87-E0.jpg)
