@@ -5,7 +5,7 @@ NEW VERSION AVAILABLE!
 - Make sure you check out our [Channel!](https://t.me/undecryptable81)
 - We have more and better versions of [Cash App Clones](https://t.me/undecryptable81)
 - Our newest version exclusive includes: Working Cashtag Grabber, Bitcoin Page, Savings page, and more!!!
-- We also have other App Clones like P*yPal, B*nk of Am*rica and more!!
+- We also have other App Clones like P*yPal, B*nk of Am*rica and more!
 - Crypto Wallets Also Available
 - Good for TikTok Streams, Prop for movies, Video clips, etc.
 
